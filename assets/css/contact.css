@@ -1,5 +1,5 @@
 .contact-container {
-    max-width: 700px;
+    max-width: 600px ;
     margin: 60px auto;
     background-color: var(--card-dark);
     padding: 30px;
@@ -33,12 +33,12 @@ form input {
     outline: none;
     background-color: #111;
     color: white;
-    width: 180px;
+    width: 190px;
 }
 
 
 form textarea {
-    padding: 8px;
+    padding: 7px;
     border-radius: 6px;
     border: 1px solid #444;
     outline: none;
