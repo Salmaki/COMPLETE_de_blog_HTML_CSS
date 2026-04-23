@@ -125,3 +125,22 @@ img{
     border-radius: 12px;
 }
 
+footer {
+  background: var(--rose);
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+  font-family: Arial, sans-serif;
+}
+
+footer .copyright p {
+  margin: 0;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+
+footer:hover {
+  background:var(--rose);
+  transition: 0.3s ease;
+}
