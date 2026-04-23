@@ -142,5 +142,4 @@ footer .copyright p {
 
 footer:hover {
   background:var(--rose);
-  transition: 0.3s ease;
 }
